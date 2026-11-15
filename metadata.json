@@ -1,0 +1,6 @@
+{
+  "name": "Thành Troy · Ngữ Văn 10",
+  "description": "Chuyên trang học tập Ngữ Văn lớp 10 về Thành Troy, các vị thần Hy Lạp và đoạn trích sử thi Héc-to từ biệt Ăng-đrô-mác (I-li-át - Hô-me-rơ).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
